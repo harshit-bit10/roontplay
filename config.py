@@ -2,13 +2,13 @@ api_id = 27190467
 
 api_hash = "ff6bc6ad2faba520f426cf04ca7f5773"
 
-bot_token = "6302807884:AAEBv0WzeekuAkDxyFn_HAid0mC4BgZPcTQ"
+bot_token = "6302807884:AAFwIlOPtQyctY1IqNUDyp1x_pNgxwLsmpc"
 
-GROUP_TAG = "harshitrips"
+GROUP_TAG = "SharkToonsIndia"
 
 sudo_users = [6066102279,5574593875,6274275394,1856011609]
 
-AUTHORIZED_CHATS = "-1001919140615"
+AUTHORIZED_CHATS = "-1002213804265"
 
 DL_DONE_MSG = """
 ✅ <b> {} Completed In </b> <code>{}</code>
